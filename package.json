@@ -43,6 +43,7 @@
     "dependencies": {
         "@babel/runtime": "^7.11.0",
         "@babel/runtime-corejs3": "^7.11.0",
+        "image-webpack-loader": "^6.0.0",
         "webpack-livereload-plugin": "^2.2.0"
     }
 }
